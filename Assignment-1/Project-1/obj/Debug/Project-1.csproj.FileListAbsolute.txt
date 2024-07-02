@@ -1,0 +1,27 @@
+C:\Users\karee\source\repos\Project-1\Project-1\bin\Debug\Project-1.exe.config
+C:\Users\karee\source\repos\Project-1\Project-1\bin\Debug\Project-1.exe
+C:\Users\karee\source\repos\Project-1\Project-1\bin\Debug\Project-1.pdb
+C:\Users\karee\source\repos\Project-1\Project-1\obj\Debug\Project-1.csproj.AssemblyReference.cache
+C:\Users\karee\source\repos\Project-1\Project-1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\karee\source\repos\Project-1\Project-1\obj\Debug\Project-1.csproj.GenerateResource.cache
+C:\Users\karee\source\repos\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+C:\Users\karee\source\repos\Project-1\Project-1\obj\Debug\Project-1.exe
+C:\Users\karee\source\repos\Project-1\Project-1\obj\Debug\Project-1.pdb
+C:\Users\Justi\Downloads\Project-1 FInal\Project-1\Project-1\bin\Debug\Project-1.exe.config
+C:\Users\Justi\Downloads\Project-1 FInal\Project-1\Project-1\bin\Debug\Project-1.exe
+C:\Users\Justi\Downloads\Project-1 FInal\Project-1\Project-1\bin\Debug\Project-1.pdb
+C:\Users\Justi\Downloads\Project-1 FInal\Project-1\Project-1\obj\Debug\Project-1.csproj.AssemblyReference.cache
+C:\Users\Justi\Downloads\Project-1 FInal\Project-1\Project-1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\Justi\Downloads\Project-1 FInal\Project-1\Project-1\obj\Debug\Project-1.csproj.GenerateResource.cache
+C:\Users\Justi\Downloads\Project-1 FInal\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+C:\Users\Justi\Downloads\Project-1 FInal\Project-1\Project-1\obj\Debug\Project-1.exe
+C:\Users\Justi\Downloads\Project-1 FInal\Project-1\Project-1\obj\Debug\Project-1.pdb
+C:\Users\karee\Downloads\Project-1-FINALFINAL(1)\Project-1\bin\Debug\Project-1.exe.config
+C:\Users\karee\Downloads\Project-1-FINALFINAL(1)\Project-1\bin\Debug\Project-1.exe
+C:\Users\karee\Downloads\Project-1-FINALFINAL(1)\Project-1\bin\Debug\Project-1.pdb
+C:\Users\karee\Downloads\Project-1-FINALFINAL(1)\Project-1\obj\Debug\Project-1.csproj.AssemblyReference.cache
+C:\Users\karee\Downloads\Project-1-FINALFINAL(1)\Project-1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\karee\Downloads\Project-1-FINALFINAL(1)\Project-1\obj\Debug\Project-1.csproj.GenerateResource.cache
+C:\Users\karee\Downloads\Project-1-FINALFINAL(1)\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+C:\Users\karee\Downloads\Project-1-FINALFINAL(1)\Project-1\obj\Debug\Project-1.exe
+C:\Users\karee\Downloads\Project-1-FINALFINAL(1)\Project-1\obj\Debug\Project-1.pdb
